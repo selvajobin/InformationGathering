@@ -53,5 +53,15 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ## ICMP Traceroute
 ![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
 
+## Whois:
+![image](https://github.com/user-attachments/assets/6e8a62ef-c18c-4f92-aa02-064f64995bce)
+
+## nslookup:
+![image](https://github.com/user-attachments/assets/d53c3a81-ec2e-451f-a63b-5ea16d3c90da)
+
+## httprint:
+![image](https://github.com/user-attachments/assets/793731fd-31b3-46ad-9d21-34052792b30c)
+
+
 ## RESULT:
 The information gathering techniques tools/procedure were  identified successfully
