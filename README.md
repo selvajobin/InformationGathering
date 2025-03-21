@@ -26,7 +26,8 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 ![image](https://github.com/user-attachments/assets/f6826459-e76b-479e-987e-043ce5588b5c)
 
 ## Finding IP address:
-![image](https://github.com/user-attachments/assets/5d382dd1-0842-4471-8f27-44bb6db919b6)
+![ping](https://github.com/user-attachments/assets/61b5149c-241f-4d88-af55-2da581573106)
+
 
 ## Finding Hosting Company
 ![image](https://github.com/user-attachments/assets/d923edcb-2283-49b0-9cbc-404b9ce475fe)
@@ -36,28 +37,29 @@ Open terminal/browser and try execute necessary commands/use url to perform info
 
 
 ## Web server Fingerprint
-![image](https://github.com/user-attachments/assets/8e944f2a-d1c1-4345-9c67-880847f72d59)
+![example](https://github.com/user-attachments/assets/97e434c0-1062-47dd-847a-8da8c3a5cfff)
+
 
 ## nmap
-![image](https://github.com/user-attachments/assets/2d45942f-322c-4d75-a74b-9713bf743343)
+![n map](https://github.com/user-attachments/assets/152c1da8-85bc-4cf3-b40c-ab071f1eab19)
 
 ## Whatweb
-![image](https://github.com/user-attachments/assets/94faced7-3af9-4fed-853d-419396f26d76)
+![what web](https://github.com/user-attachments/assets/fb050a1a-6b64-4b98-9f75-1d5adcc92b8c)
 
 ## TCP Traceroute
-![image](https://github.com/user-attachments/assets/16af94dd-e038-4203-92e4-3295d57f4ac6)
+![trace route t](https://github.com/user-attachments/assets/46daa056-ec41-49b3-aad8-533ec2115845)
 
 ## UDP Traceroute
-![image](https://github.com/user-attachments/assets/2bd16e91-be60-4b67-9de9-2e206d402339)
+![trace route u](https://github.com/user-attachments/assets/aa971a80-19ff-47be-a403-4a511ed663d6)
 
 ## ICMP Traceroute
-![image](https://github.com/user-attachments/assets/59c3d7ea-b1f0-4b46-a9b7-8aa1532c3ccd)
+![trace routr](https://github.com/user-attachments/assets/0b311368-6c26-4f6a-a114-bceec941be64)
 
 ## Whois:
-![image](https://github.com/user-attachments/assets/6e8a62ef-c18c-4f92-aa02-064f64995bce)
+![geeks](https://github.com/user-attachments/assets/b040cb94-4b26-41e2-9b7c-c361edd7c43c)
 
 ## nslookup:
-![image](https://github.com/user-attachments/assets/d53c3a81-ec2e-451f-a63b-5ea16d3c90da)
+![ns](https://github.com/user-attachments/assets/6708571d-b32f-4062-944a-8f739ddcca97)
 
 ## httprint:
 ![image](https://github.com/user-attachments/assets/793731fd-31b3-46ad-9d21-34052792b30c)
